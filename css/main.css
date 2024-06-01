@@ -1,0 +1,36 @@
+body{
+    background-color: brown;
+}
+.box{
+    color: white;
+    /*border: 5px solid white;*/ /* solid,dotted,dashed,double,ridge,groove,inset,outset */
+    /*border-width: 5px;*/
+    border-top-width: 5px;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+    border-left-width: 5px;
+    /*border-style: solid;*/
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    /*border-color: white;*/
+    border-top-color: white;
+    border-right-color: white;
+    border-bottom-color: white;
+    border-left-color: white;
+    text-align: left;     /* left(default code),center,right,justify */
+    text-transform: none; /* none(default code),uppercase,lowercase,capitalize */
+    text-decoration: none; /* none(default code),underline,overline,line-through */
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    line-height: 30px;
+}
+/*a{
+    color: white;
+    text-decoration: none;
+}*/
+
+
+
+
